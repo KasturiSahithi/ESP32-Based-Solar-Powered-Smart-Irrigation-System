@@ -1,7 +1,6 @@
 # ESP32-Based-Solar-Powered-Smart-Irrigation-System
 A solar-powered smart irrigation system using ESP32 and multiple sensors to automate irrigation based on real-time soil and environmental conditions, helping reduce water wastage and manual effort in agriculture.
 
-# 🌱 Solar-Powered Adaptive Smart Irrigation System with Intelligent Fault Diagnosis and IoT-Based Resource Management Using ESP32
 
 ## 📌 Project Overview
 

@@ -233,8 +233,6 @@ Sensor and system information is uploaded to a cloud dashboard for:
 
 * **Microcontroller:** ESP32
 * **Programming:** Embedded C/C++ / Arduino IDE
-* **Communication:** Wi-Fi
-* **Cloud:** Firebase / ThingSpeak
 * **Dashboard:** Web-based monitoring dashboard
 * **Sensors:** Soil moisture, DHT11/DHT22, LDR, flow, tank level, pH
 * **Actuation:** DC pump, relay/MOSFET, solenoid valves
